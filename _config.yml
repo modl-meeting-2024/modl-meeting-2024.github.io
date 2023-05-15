@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-#remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 theme: just-the-docs # this works offline...
 color_scheme: light
 search_enabled: false
