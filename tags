@@ -5067,6 +5067,12 @@
 .v-align-top	_site/assets/css/just-the-docs-light.css	/^.v-align-top {$/;"	c
 0	_site/assets/js/search-data.json	/^{"0": {$/;"	o
 1	_site/assets/js/search-data.json	/^  },"1": {$/;"	o
+2	_site/assets/js/search-data.json	/^  },"2": {$/;"	o
+3	_site/assets/js/search-data.json	/^  },"3": {$/;"	o
+4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
+5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
+6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
+7	_site/assets/js/search-data.json	/^  },"7": {$/;"	o
 8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
 8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
 :-moz-focusring	_site/assets/css/just-the-docs-dark.css	/^[type="button"]:-moz-focusring,$/;"	s
@@ -5103,6 +5109,7 @@
 :not(pre	_site/assets/css/just-the-docs-default.css	/^:not(pre, figure) > code {$/;"	s
 :not(pre	_site/assets/css/just-the-docs-light.css	/^:not(pre, figure) > code {$/;"	s
 Accommodations	README.md	/^# Accommodations$/;"	c
+Accommodations	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 AnonymousFunction44e4342b0100	_site/assets/js/just-the-docs.js	/^  else document.attachEvent('onreadystatechange', function(){$/;"	f	function:jtd.onReady
 AnonymousFunction44e4342b0200	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(document, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0300	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(menuButton, 'click', function(e){$/;"	f
@@ -5124,12 +5131,17 @@ Omar Montasser	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta 
 Organizers	README.md	/^# Organizers$/;"	c
 Organizers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Reimbursements	README.md	/^# Reimbursements$/;"	c
+Reimbursements	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Sam Buchanan	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Schedule	README.md	/^# Schedule$/;"	c
+Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Synopsis	README.md	/^# Synopsis$/;"	c
+Synopsis	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tuesday, May 23, 2023	README.md	/^## Tuesday, May 23, 2023$/;"	s	chapter:Schedule
+Tuesday, May 23, 2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Wednesday, May 24, 2023	README.md	/^## Wednesday, May 24, 2023$/;"	s	chapter:Schedule
+Wednesday, May 24, 2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 a	_site/assets/css/just-the-docs-dark.css	/^a {$/;"	s
 a	_site/assets/css/just-the-docs-default.css	/^a {$/;"	s
 a	_site/assets/css/just-the-docs-light.css	/^a {$/;"	s
@@ -5155,6 +5167,7 @@ abbr[title]	_site/assets/css/just-the-docs-dark.css	/^abbr[title] {$/;"	s
 abbr[title]	_site/assets/css/just-the-docs-default.css	/^abbr[title] {$/;"	s
 abbr[title]	_site/assets/css/just-the-docs-light.css	/^abbr[title] {$/;"	s
 abstract-card	_sass/custom/card.scss	/^@mixin abstract-card() {$/;"	m
+accommodations	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 active	_sass/custom/custom_backup.scss	/^      &.active {$/;"	c
 active	_sass/custom/custom_backup.scss	/^    &.active {$/;"	c
 addEvent	_site/assets/js/just-the-docs.js	/^jtd.addEvent = function(el, type, handler) {$/;"	f	function:jtd
@@ -5276,8 +5289,14 @@ code	_site/assets/css/just-the-docs-light.css	/^code,$/;"	s
 code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-mermaid {$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid {$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid {$/;"	c
-content	_site/assets/js/search-data.json	/^    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",$/;"	s	object:1
-content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Brandie Jones . TTIC . Omar Montasser . TTIC . Gal Vardi ./;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:2
+content	_site/assets/js/search-data.json	/^    "content": ". | 10:30 - 11:00 Welcome + Coffee | 11:00 - 11:30 Reza Gheissari “TBA” | 11/;"	s	object:3
+content	_site/assets/js/search-data.json	/^    "content": "Hotel accommodations will be at The Study Hotel, located in Hyde Park. | To make/;"	s	object:1
+content	_site/assets/js/search-data.json	/^    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",$/;"	s	object:7
+content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Brandie Jones . TTIC . Omar Montasser . TTIC . Gal Vardi ./;"	s	object:6
+content	_site/assets/js/search-data.json	/^    "content": "TTIC will reimburse all travel expenses (airfare, train, bus, taxi, meals, etc.)/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": "| 8:30 - 9:00 Breakfast | 9:00 - 9:30 Promit Ghosal “TBA” | 9:30 - 10:15 Mat/;"	s	object:4
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 details	_site/assets/css/just-the-docs-dark.css	/^details {$/;"	s
@@ -5351,6 +5370,12 @@ dl	_site/assets/css/just-the-docs-default.css	/^dl,$/;"	s
 dl	_site/assets/css/just-the-docs-light.css	/^dl,$/;"	s
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:1
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:2
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:3
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:4
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:5
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:6
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:7
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset {$/;"	s
@@ -5567,12 +5592,20 @@ pre.highlight	_site/assets/css/just-the-docs-light.css	/^pre.highlight {$/;"	c
 progress	_site/assets/css/just-the-docs-dark.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-default.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-light.css	/^progress {$/;"	s
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:1
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#organizers"$/;"	s	object:0
+reimbursements	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:7
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#accommodations"$/;"	s	object:1
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#organizers"$/;"	s	object:6
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#reimbursements"$/;"	s	object:5
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#schedule"$/;"	s	object:2
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#synopsis"$/;"	s	object:0
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#tuesday-may-23-2023"$/;"	s	object:3
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#wednesday-may-24-2023"$/;"	s	object:4
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^samp {$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^samp {$/;"	s
 samp	_site/assets/css/just-the-docs-light.css	/^samp {$/;"	s
+schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 scrollNav	_site/assets/js/just-the-docs.js	/^function scrollNav() {$/;"	f
 section	_sass/custom/calendar.scss	/^    &.section {$/;"	c
 select	_site/assets/css/just-the-docs-dark.css	/^select {$/;"	s
@@ -5703,6 +5736,7 @@ svg-external-link-title	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><he
 svg-link	_layouts/minimal_backup.html	/^    <symbol id="svg-link" viewBox="0 0 24 24">$/;"	I
 svg-link	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+synopsis	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 table	_site/assets/css/just-the-docs-dark.css	/^table {$/;"	s
 table	_site/assets/css/just-the-docs-dark.css	/^table,$/;"	s
 table	_site/assets/css/just-the-docs-default.css	/^table {$/;"	s
@@ -5743,10 +5777,17 @@ thead th	_site/assets/css/just-the-docs-dark.css	/^thead th {$/;"	s
 thead th	_site/assets/css/just-the-docs-default.css	/^thead th {$/;"	s
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th {$/;"	s
 time	_sass/custom/calendar.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:1
-title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:0
+title	_site/assets/js/search-data.json	/^    "title": "Accommodations",$/;"	s	object:1
+title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:7
+title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:6
+title	_site/assets/js/search-data.json	/^    "title": "Reimbursements",$/;"	s	object:5
+title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:2
+title	_site/assets/js/search-data.json	/^    "title": "Synopsis",$/;"	s	object:0
+title	_site/assets/js/search-data.json	/^    "title": "Tuesday, May 23, 2023",$/;"	s	object:3
+title	_site/assets/js/search-data.json	/^    "title": "Wednesday, May 24, 2023",$/;"	s	object:4
 top	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 topleft	_sass/custom/custom.scss	/^  .topleft {$/;"	c
+tuesday-may-23-2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 type	_site/assets/css/just-the-docs-dark.css	/^[type="button"],$/;"	s
 type	_site/assets/css/just-the-docs-dark.css	/^[type="button"]:-moz-focusring,$/;"	s
 type	_site/assets/css/just-the-docs-dark.css	/^[type="button"]::-moz-focus-inner,$/;"	s
@@ -5795,8 +5836,15 @@ type	_site/assets/css/just-the-docs-light.css	/^[type="submit"]::-moz-focus-inne
 ul	_site/assets/css/just-the-docs-dark.css	/^ul,$/;"	s
 ul	_site/assets/css/just-the-docs-default.css	/^ul,$/;"	s
 ul	_site/assets/css/just-the-docs-light.css	/^ul,$/;"	s
-url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:1
-url	_site/assets/js/search-data.json	/^    "url": "\/#organizers",$/;"	s	object:0
+url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:7
+url	_site/assets/js/search-data.json	/^    "url": "\/#accommodations",$/;"	s	object:1
+url	_site/assets/js/search-data.json	/^    "url": "\/#organizers",$/;"	s	object:6
+url	_site/assets/js/search-data.json	/^    "url": "\/#reimbursements",$/;"	s	object:5
+url	_site/assets/js/search-data.json	/^    "url": "\/#schedule",$/;"	s	object:2
+url	_site/assets/js/search-data.json	/^    "url": "\/#synopsis",$/;"	s	object:0
+url	_site/assets/js/search-data.json	/^    "url": "\/#tuesday-may-23-2023",$/;"	s	object:3
+url	_site/assets/js/search-data.json	/^    "url": "\/#wednesday-may-24-2023",$/;"	s	object:4
+wednesday-may-24-2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i

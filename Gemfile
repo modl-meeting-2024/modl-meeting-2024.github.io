@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 
-gem "jekyll", "=3.9.0"
+gem "jekyll"
 gem "rake"
 # gem "webrick", "~> 1.7"
 gem "webrick"#, "~> 1.7"
@@ -10,3 +10,4 @@ gem "just-the-docs"
 gem "jekyll-seo-tag"
 gem 'jekyll-liquify'
 gem "kramdown-parser-gfm"
+gem "github-pages", "~> 228", group: :jekyll_plugins
