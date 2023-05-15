@@ -7,8 +7,6 @@ nav_order: 0
 
 {% include splash.html %}
 
-# Synopsis
-
 # Accommodations
 
 Hotel accommodations will be at The Study Hotel, located in Hyde Park. 

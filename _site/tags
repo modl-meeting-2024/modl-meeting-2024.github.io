@@ -5266,7 +5266,6 @@ Remote Details	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta 
 Sam Buchanan	_site/index.html	/^<\/code><\/pre><\/div><\/div><h1 id="reimbursements"> <a href="#reimbursements" class="anchor-he/;"	j
 Schedule	README.md	/^# Schedule$/;"	c
 Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Synopsis	README.md	/^# Synopsis$/;"	c
 Synopsis	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tuesday, May 23, 2023	README.md	/^## Tuesday, May 23, 2023$/;"	s	chapter:Schedule
@@ -5444,12 +5443,12 @@ code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-m
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": ". | 10:30 - 11:00 Welcome + Coffee | 11:00 - 11:45 Reza Gheissari “TBA” | 11/;"	s	object:3
+content	_site/assets/js/search-data.json	/^    "content": ". | 8:30 - 9:00 Breakfast | 9:00 - 9:30 Promit Ghosal “TBA” | 9:30 - 10:15 M/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": "Hotel accommodations will be at The Study Hotel, located in Hyde Park. | To make/;"	s	object:1
 content	_site/assets/js/search-data.json	/^    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",$/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Brandie Jones . TTIC . Omar Montasser . TTIC . Gal Vardi ./;"	s	object:7
 content	_site/assets/js/search-data.json	/^    "content": "TTIC will reimburse all travel expenses (airfare, train, bus, taxi, meals, etc.)/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "Zoom Link . TTIC Zoom is inviting you to a scheduled Zoom meeting. Topic: MODL M/;"	s	object:5
-content	_site/assets/js/search-data.json	/^    "content": "| 8:30 - 9:00 Breakfast | 9:00 - 9:30 Promit Ghosal “TBA” | 9:30 - 10:15 Mat/;"	s	object:4
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 details	_site/assets/css/just-the-docs-dark.css	/^details { display: block; }$/;"	s
