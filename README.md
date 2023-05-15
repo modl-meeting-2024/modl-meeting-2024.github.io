@@ -21,26 +21,48 @@ Jones](mailto:bjones@ttic.edu)
 
 # Schedule
 
-
 ## Tuesday, May 23, 2023
 - 10:30 - 11:00 Welcome + Coffee
-- 11:00 - 11:30 Reza Gheissari “TBA”
+- 11:00 - 11:45 Reza Gheissari *“TBA”*
 - 11:30 - 1:00 Poster Session + Lunch
-- 1:00 - 1:30 Nikhil Ghosh “A Universal Trade-off Between the Model Size, Test Loss, and Training Loss of Linear Predictors”
-- 1:35 - 2:05 Jingfeng Wu “Implicit Bias of Gradient Descent for Logistic Regression at the Edge of Stability”
-- 2:05 - 3:05 Research Speed Dating 
-- 3:05 - 3:35 Lijia Zhou “TBA”
-- 3:40 - 4:10 Kangjie Zhou “Learning time-scales in two-layers neural networks”
-- 4:10 - 5pm Panel
+- 1:00 - 1:30 Nikhil Ghosh *“A Universal Trade-off Between the Model Size, Test
+  Loss, and Training Loss of Linear Predictors”*
+- 1:35 - 2:05 Jingfeng Wu *“Implicit Bias of Gradient Descent for Logistic
+  Regression at the Edge of Stability”*
+- 2:05 - 3:05 ***Research Speed Dating***
+- 3:05 - 3:35 Lijia Zhou *“TBA”*
+- 3:40 - 4:10 Kangjie Zhou *“Learning time-scales in two-layers neural
+  networks”*
+- 4:10 - 5pm ***Panel***
 - 6:00 - 10:00 Cocktail Reception at The Study 
+
 ## Wednesday, May 24, 2023
 - 8:30 - 9:00 Breakfast 
-- 9:00 - 9:30 Promit Ghosal “TBA”
-- 9:30 - 10:15 Matus Telgarsky “TBA”
-- 10:30 - 11:15 Francesca Mignacco “Statistical physics insights into the dynamics of learning algorithms”
-- 11:30 - 1:30 Breakout/ Small Groups/ Open Problems 
-- 1:30 - 2:00 Parthe Pandit ‘TBA” 
-- 2:00 - 4:00 Picnic at the Point 
+- 9:00 - 9:30 Promit Ghosal *“TBA”*
+- 9:30 - 10:15 Matus Telgarsky *“TBA”*
+- 10:30 - 11:15 Francesca Mignacco *“Statistical physics insights into the dynamics of learning algorithms”*
+- 11:30 - 1:30 ***Breakout/ Small Groups/ Open Problems***
+- 1:30 - 2:00 Parthe Pandit "Mechanism of feature learning in deep fully
+  connected networks and kernel machines that recursively learn features" 
+- 2:00 - 4:00 ***Picnic at the Point***
+
+# Remote Details
+
+
+[Zoom Link](https://uchicagogroup.zoom.us/j/92900922991?pwd=ZE96Y1BkNW9vTGovbGszZ0lJZDR1Zz09)
+
+```
+TTIC Zoom is inviting you to a scheduled Zoom meeting.
+
+Topic: MODL MEETING
+Time: May 23, 2023 09:00 AM Central Time (US and Canada)
+        Every day, until May 24, 2023, 2 occurrence(s)
+        May 23, 2023 09:00 AM
+        May 24, 2023 09:00 AM
+
+Meeting ID: 929 0092 2991
+Passcode: 214538
+```
 
 # Reimbursements
 
