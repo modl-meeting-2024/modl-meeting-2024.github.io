@@ -5216,7 +5216,6 @@
 7	_site/assets/js/search-data.json	/^  },"7": {$/;"	o
 8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
 8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
-8	_site/assets/js/search-data.json	/^  },"8": {$/;"	o
 :-moz-focusring	_site/assets/css/just-the-docs-dark.css	/^button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="sub/;"	s
 :-moz-focusring	_site/assets/css/just-the-docs-default.css	/^button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="sub/;"	s
 :-moz-focusring	_site/assets/css/just-the-docs-light.css	/^button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="sub/;"	s
@@ -5266,7 +5265,7 @@ Remote Details	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta 
 Sam Buchanan	_site/index.html	/^<\/code><\/pre><\/div><\/div><h1 id="reimbursements"> <a href="#reimbursements" class="anchor-he/;"	j
 Schedule	README.md	/^# Schedule$/;"	c
 Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Synopsis	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Synopsis	README.md	/^# Synopsis$/;"	c
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tuesday, May 23, 2023	README.md	/^## Tuesday, May 23, 2023$/;"	s	chapter:Schedule
 Tuesday, May 23, 2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
@@ -5440,15 +5439,14 @@ code	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: m
 code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:0
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:2
-content	_site/assets/js/search-data.json	/^    "content": ". | 10:30 - 11:00 Welcome + Coffee | 11:00 - 11:45 Reza Gheissari “TBA” | 11/;"	s	object:3
-content	_site/assets/js/search-data.json	/^    "content": ". | 8:30 - 9:00 Breakfast | 9:00 - 9:30 Promit Ghosal “TBA” | 9:30 - 10:15 M/;"	s	object:4
-content	_site/assets/js/search-data.json	/^    "content": "Hotel accommodations will be at The Study Hotel, located in Hyde Park. | To make/;"	s	object:1
-content	_site/assets/js/search-data.json	/^    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",$/;"	s	object:8
-content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Brandie Jones . TTIC . Omar Montasser . TTIC . Gal Vardi ./;"	s	object:7
-content	_site/assets/js/search-data.json	/^    "content": "TTIC will reimburse all travel expenses (airfare, train, bus, taxi, meals, etc.)/;"	s	object:6
-content	_site/assets/js/search-data.json	/^    "content": "Zoom Link . TTIC Zoom is inviting you to a scheduled Zoom meeting. Topic: MODL M/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:1
+content	_site/assets/js/search-data.json	/^    "content": ". | 10:30 - 11:00 Welcome + Coffee | 11:00 - 11:45 Reza Gheissari “TBA” | 11/;"	s	object:2
+content	_site/assets/js/search-data.json	/^    "content": ". | 8:30 - 9:00 Breakfast | 9:00 - 9:30 Promit Ghosal “TBA” | 9:30 - 10:15 M/;"	s	object:3
+content	_site/assets/js/search-data.json	/^    "content": "Hotel accommodations will be at The Study Hotel, located in Hyde Park. | To make/;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",$/;"	s	object:7
+content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Brandie Jones . TTIC . Omar Montasser . TTIC . Gal Vardi ./;"	s	object:6
+content	_site/assets/js/search-data.json	/^    "content": "TTIC will reimburse all travel expenses (airfare, train, bus, taxi, meals, etc.)/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": "Zoom Link . TTIC Zoom is inviting you to a scheduled Zoom meeting. Topic: MODL M/;"	s	object:4
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 details	_site/assets/css/just-the-docs-dark.css	/^details { display: block; }$/;"	s
@@ -5531,7 +5529,6 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:4
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:5
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:6
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:7
-doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:8
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
@@ -5782,15 +5779,14 @@ progress	_site/assets/css/just-the-docs-dark.css	/^progress { vertical-align: ba
 progress	_site/assets/css/just-the-docs-default.css	/^progress { vertical-align: baseline; }$/;"	s
 progress	_site/assets/css/just-the-docs-light.css	/^progress { vertical-align: baseline; }$/;"	s
 reimbursements	_site/index.html	/^<\/code><\/pre><\/div><\/div><h1 id="reimbursements"> <a href="#reimbursements" class="anchor-he/;"	I
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:8
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#accommodations"$/;"	s	object:1
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#organizers"$/;"	s	object:7
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#reimbursements"$/;"	s	object:6
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#remote-details"$/;"	s	object:5
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#schedule"$/;"	s	object:2
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#synopsis"$/;"	s	object:0
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#tuesday-may-23-2023"$/;"	s	object:3
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#wednesday-may-24-2023"$/;"	s	object:4
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:7
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#accommodations"$/;"	s	object:0
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#organizers"$/;"	s	object:6
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#reimbursements"$/;"	s	object:5
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#remote-details"$/;"	s	object:4
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#schedule"$/;"	s	object:1
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#tuesday-may-23-2023"$/;"	s	object:2
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#wednesday-may-24-2023"$/;"	s	object:3
 remote-details	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
@@ -5933,7 +5929,6 @@ svg-external-link-title	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><he
 svg-link	_layouts/minimal_backup.html	/^    <symbol id="svg-link" viewBox="0 0 24 24">$/;"	I
 svg-link	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-synopsis	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 table	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 table	_site/assets/css/just-the-docs-dark.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
 table	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -5980,15 +5975,14 @@ thead th	_site/assets/css/just-the-docs-dark.css	/^thead th { border-bottom: 1px
 thead th	_site/assets/css/just-the-docs-default.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 time	_sass/custom/calendar.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "Accommodations",$/;"	s	object:1
-title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:8
-title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:7
-title	_site/assets/js/search-data.json	/^    "title": "Reimbursements",$/;"	s	object:6
-title	_site/assets/js/search-data.json	/^    "title": "Remote Details",$/;"	s	object:5
-title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:2
-title	_site/assets/js/search-data.json	/^    "title": "Synopsis",$/;"	s	object:0
-title	_site/assets/js/search-data.json	/^    "title": "Tuesday, May 23, 2023",$/;"	s	object:3
-title	_site/assets/js/search-data.json	/^    "title": "Wednesday, May 24, 2023",$/;"	s	object:4
+title	_site/assets/js/search-data.json	/^    "title": "Accommodations",$/;"	s	object:0
+title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:7
+title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:6
+title	_site/assets/js/search-data.json	/^    "title": "Reimbursements",$/;"	s	object:5
+title	_site/assets/js/search-data.json	/^    "title": "Remote Details",$/;"	s	object:4
+title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:1
+title	_site/assets/js/search-data.json	/^    "title": "Tuesday, May 23, 2023",$/;"	s	object:2
+title	_site/assets/js/search-data.json	/^    "title": "Wednesday, May 24, 2023",$/;"	s	object:3
 top	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 topleft	_sass/custom/custom.scss	/^  .topleft {$/;"	c
 tuesday-may-23-2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6016,15 +6010,14 @@ type	_site/assets/css/just-the-docs-light.css	/^button::-moz-focus-inner, [type=
 ul	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ul	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ul	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
-url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:8
-url	_site/assets/js/search-data.json	/^    "url": "\/#accommodations",$/;"	s	object:1
-url	_site/assets/js/search-data.json	/^    "url": "\/#organizers",$/;"	s	object:7
-url	_site/assets/js/search-data.json	/^    "url": "\/#reimbursements",$/;"	s	object:6
-url	_site/assets/js/search-data.json	/^    "url": "\/#remote-details",$/;"	s	object:5
-url	_site/assets/js/search-data.json	/^    "url": "\/#schedule",$/;"	s	object:2
-url	_site/assets/js/search-data.json	/^    "url": "\/#synopsis",$/;"	s	object:0
-url	_site/assets/js/search-data.json	/^    "url": "\/#tuesday-may-23-2023",$/;"	s	object:3
-url	_site/assets/js/search-data.json	/^    "url": "\/#wednesday-may-24-2023",$/;"	s	object:4
+url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:7
+url	_site/assets/js/search-data.json	/^    "url": "\/#accommodations",$/;"	s	object:0
+url	_site/assets/js/search-data.json	/^    "url": "\/#organizers",$/;"	s	object:6
+url	_site/assets/js/search-data.json	/^    "url": "\/#reimbursements",$/;"	s	object:5
+url	_site/assets/js/search-data.json	/^    "url": "\/#remote-details",$/;"	s	object:4
+url	_site/assets/js/search-data.json	/^    "url": "\/#schedule",$/;"	s	object:1
+url	_site/assets/js/search-data.json	/^    "url": "\/#tuesday-may-23-2023",$/;"	s	object:2
+url	_site/assets/js/search-data.json	/^    "url": "\/#wednesday-may-24-2023",$/;"	s	object:3
 wednesday-may-24-2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
