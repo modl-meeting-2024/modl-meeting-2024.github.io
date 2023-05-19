@@ -46,7 +46,7 @@ Jones](mailto:bjones@ttic.edu)
 # Schedule
 
 ## Tuesday, May 23, 2023
-- 10:30 - 11:00 Welcome + Coffee
+- 10:30 - 11:00 ***Welcome + Coffee***
 - 11:00 - 11:45 Reza Gheissari *“High-Dimensional Limit Theorems for Stochastic
   Gradient Descent”*
 - 11:45 - 1:00 ***Poster Session + Lunch***
@@ -61,10 +61,10 @@ Jones](mailto:bjones@ttic.edu)
 - 4:05 - 4:35 Kangjie Zhou *“Learning Time-Scales in Two-Layers Neural
   Networks”*
 - 4:35 - 5:30 ***Panel Discussion***
-- 6:00 - 8:00 Cocktail Reception at TTIC
+- 6:00 - 8:00 ***Cocktail Reception at TTIC***
 
 ## Wednesday, May 24, 2023
-- 9:45 - 10:00 Breakfast 
+- 9:45 - 10:00 ***Breakfast***
 - 10:00 - 10:30 Promit Ghosal *“Towards Understanding the Dynamics of
   Gaussian-Stein Variational Gradient Descent”*
 - 10:30 - 10:40 *Break*
