@@ -9,15 +9,26 @@ nav_order: 0
 
 # Synopsis
 
-Join us from Tuesday, May 23rd (starting 10:00 a.m.) to Wednesday, May 24th
+<!--Join us from Tuesday, May 23rd (starting 10:30 a.m.) to Wednesday, May 24th
 (ending at 4:30 p.m., with a picnic at The Point to follow) for research talks
 and activities relevant to the [Collaboration on the Theoretical Foundations of
+Deep Learning](https://deepfoundations.ai/).-->
+
+Join us at [TTIC](https://ttic.edu/contact/) from May 23rd-24th for talks and
+activities relevant to the [Collaboration on the Theoretical Foundations of
 Deep Learning](https://deepfoundations.ai/).
+
+- ***Scientific Program***: beginning **Tuesday, May 23rd at 10 AM CT**,
+  ending **Wednesday, May 24th at 4 PM CT**.
+- ***Full Program***: The meeting will conclude with a picnic at [The
+  Point](https://www.promontorypoint.org/) after the scientific program ends,
+  on **Wednesday, May 24th from 4 PM CT to 8 PM**.
 
 See [the schedule]({{site.baseurl}}#schedule) below for the list of talks by
 internal members of the collaboration and external speakers. We have also
-planned a panel session, a "research speed dating" event, and an open problems
-session for students, postdocs, and faculty to enjoy.
+planned a panel session, a "research speed dating" event, and a discussion
+session for research topics/open problems for students, postdocs, and faculty
+to enjoy.
 
 Remote participation will be accommodated; see [below]({{ site.baseurl
 }}/#remote-details).
@@ -35,32 +46,37 @@ Jones](mailto:bjones@ttic.edu)
 # Schedule
 
 ## Tuesday, May 23, 2023
-- 10:00 - 10:30 Welcome + Coffee
-- 10:30 - 11:15 Reza Gheissari *“High-Dimensional Limit Theorems for Stochastic
+- 10:30 - 11:00 Welcome + Coffee
+- 11:00 - 11:45 Reza Gheissari *“High-Dimensional Limit Theorems for Stochastic
   Gradient Descent”*
-- 11:30 - 1:00 Poster Session + Lunch
+- 11:45 - 1:00 ***Poster Session + Lunch***
 - 1:00 - 1:30 Nikhil Ghosh *“A Universal Trade-off Between the Model Size, Test
   Loss, and Training Loss of Linear Predictors”*
 - 1:35 - 2:05 Jingfeng Wu *“Implicit Bias of Gradient Descent for Logistic
   Regression at the Edge of Stability”*
 - 2:05 - 3:05 ***Research Speed Dating***
-- 3:05 - 3:35 Lijia Zhou *“Agnostic Interpolation Learning Beyond Linear
+- 3:05 - 3:35 *Break*
+- 3:35 - 4:05 Lijia Zhou *“Agnostic Interpolation Learning Beyond Linear
   Regression”*
-- 3:40 - 4:10 Kangjie Zhou *“Learning Time-Scales in Two-Layers Neural
+- 4:05 - 4:35 Kangjie Zhou *“Learning Time-Scales in Two-Layers Neural
   Networks”*
-- 4:10 - 5pm ***Panel***
-- 6:00 - 10:00 Cocktail Reception at TTIC
+- 4:35 - 5:30 ***Panel Discussion***
+- 6:00 - 8:00 Cocktail Reception at TTIC
 
 ## Wednesday, May 24, 2023
-- 8:30 - 9:00 Breakfast 
-- 9:00 - 9:30 Promit Ghosal *“Towards Understanding the Dynamics of
+- 9:45 - 10:00 Breakfast 
+- 10:00 - 10:30 Promit Ghosal *“Towards Understanding the Dynamics of
   Gaussian-Stein Variational Gradient Descent”*
-- 9:30 - 10:15 Matus Telgarsky *“TBA”*
-- 10:30 - 11:15 Francesca Mignacco *“Statistical Physics Insights into the Dynamics of Learning Algorithms”*
-- 11:30 - 1:30 ***Breakout/ Small Groups/ Open Problems***
-- 1:30 - 2:00 Parthe Pandit "Mechanism of Feature Learning in Deep Fully
+- 10:30 - 10:40 *Break*
+- 10:40 - 11:30 Francesca Mignacco *“Statistical Physics Insights into the
+  Dynamics of Learning Algorithms”*
+- 11:30 - 1:00 ***Lunch + Break***
+- 1:00 - 2:30 ***Breakout / Small Groups / Open Problems***
+- 2:30 - 3:00 Parthe Pandit "Mechanism of Feature Learning in Deep Fully
   Connected Networks and Kernel Machines that Recursively Learn Features" 
-- 2:00 - 4:00 ***Picnic at [The Point](https://www.promontorypoint.org/)***
+- 3:00 - 3:15 *Break*
+- 3:15 - 4:00 Matus Telgarsky *“TBA”*
+- 4:00 - 8:00 ***Picnic at [The Point](https://www.promontorypoint.org/)***
 
 # Remote Details
 
