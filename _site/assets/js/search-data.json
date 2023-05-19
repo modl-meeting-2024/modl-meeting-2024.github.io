@@ -35,31 +35,66 @@
     "relUrl": "/#wednesday-may-24-2023"
   },"5": {
     "doc": "Home",
-    "title": "Remote Details",
-    "content": "Zoom Link . TTIC Zoom is inviting you to a scheduled Zoom meeting. Topic: MODL MEETING Time: May 23, 2023 09:00 AM Central Time (US and Canada) Every day, until May 24, 2023, 2 occurrence(s) May 23, 2023 09:00 AM May 24, 2023 09:00 AM Meeting ID: 929 0092 2991 Passcode: 214538 . ",
-    "url": "/#remote-details",
-    
-    "relUrl": "/#remote-details"
-  },"6": {
-    "doc": "Home",
     "title": "Reimbursements",
     "content": "TTIC will reimburse all travel expenses (airfare, train, bus, taxi, meals, etc.) related to this meeting. You must keep all of your receipts. For charges related to meals, an itemized receipt must be included, and a signed copy must be submitted in order to be processed. | For the purposes of business travel, domestic travel is defined as ‘travel to any destination within the United States, including Alaska and Hawaii, and all U.S. possessions, territories, and entities with free association status.” Travel to all other locations is considered foreign travel. | The allowable expense for domestic travel is a standard coach airfare or its equivalent. Domestic First Class or Business Class travel requires approval by the Chief Academic Officer and is allowed for the following reasons: . | Physical disability | Lack of available space | Cancellation of service | Extraordinary situation | . | For more information regarding our reimbursement policy, please visit our Travel Policy. | . After the meeting, an email with more information on how you submit your reimbursement will be sent out. ",
     "url": "/#reimbursements",
     
     "relUrl": "/#reimbursements"
-  },"7": {
+  },"6": {
     "doc": "Home",
     "title": "Organizers",
     "content": "Sam Buchanan . TTIC . Brandie Jones . TTIC . Omar Montasser . TTIC . Gal Vardi . TTIC . ",
     "url": "/#organizers",
     
     "relUrl": "/#organizers"
-  },"8": {
+  },"7": {
     "doc": "Home",
     "title": "Home",
     "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",
     "url": "/",
     
     "relUrl": "/"
+  },"8": {
+    "doc": "Remote Details",
+    "title": "Remote Details",
+    "content": "Zoom Link . TTIC Zoom is inviting you to a scheduled Zoom meeting. Topic: MODL MEETING Time: May 23, 2023 09:00 AM Central Time (US and Canada) Every day, until May 24, 2023, 2 occurrence(s) May 23, 2023 09:00 AM May 24, 2023 09:00 AM Meeting ID: 929 0092 2991 Passcode: 214538 . ",
+    "url": "/remote_zoom_info#remote-details",
+    
+    "relUrl": "/remote_zoom_info#remote-details"
+  },"9": {
+    "doc": "Remote Details",
+    "title": "Remote Details",
+    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",
+    "url": "/remote_zoom_info",
+    
+    "relUrl": "/remote_zoom_info"
+  },"10": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/schedule#schedule",
+    
+    "relUrl": "/schedule#schedule"
+  },"11": {
+    "doc": "Schedule",
+    "title": "Tuesday, May 23, 2023",
+    "content": ". | 10:30 - 11:00 Welcome + Coffee | 11:00 - 11:45 Reza Gheissari “High-Dimensional Limit Theorems for Stochastic Gradient Descent” | 11:45 - 1:00 Poster Session + Lunch | 1:00 - 1:30 Nikhil Ghosh “A Universal Trade-off Between the Model Size, Test Loss, and Training Loss of Linear Predictors” | 1:35 - 2:05 Jingfeng Wu “Implicit Bias of Gradient Descent for Logistic Regression at the Edge of Stability” | 2:05 - 3:05 Research Speed Dating | 3:05 - 3:35 Break | 3:35 - 4:05 Lijia Zhou “Agnostic Interpolation Learning Beyond Linear Regression” | 4:05 - 4:35 Kangjie Zhou “Learning Time-Scales in Two-Layers Neural Networks” | 4:35 - 5:30 Panel Discussion | 6:00 - 8:00 Cocktail Reception at TTIC | . ",
+    "url": "/schedule#tuesday-may-23-2023",
+    
+    "relUrl": "/schedule#tuesday-may-23-2023"
+  },"12": {
+    "doc": "Schedule",
+    "title": "Wednesday, May 24, 2023",
+    "content": ". | 9:45 - 10:00 Breakfast | 10:00 - 10:30 Promit Ghosal “Towards Understanding the Dynamics of Gaussian-Stein Variational Gradient Descent” | 10:30 - 10:40 Break | 10:40 - 11:30 Francesca Mignacco “Statistical Physics Insights into the Dynamics of Learning Algorithms” | 11:30 - 1:00 Lunch + Break | 1:00 - 2:30 Breakout / Small Groups / Open Problems | 2:30 - 3:00 Parthe Pandit “Mechanism of Feature Learning in Deep Fully Connected Networks and Kernel Machines that Recursively Learn Features” | 3:00 - 3:15 Break | 3:15 - 4:00 Matus Telgarsky “TBA” | 4:00 - 8:00 Picnic at The Point | . ",
+    "url": "/schedule#wednesday-may-24-2023",
+    
+    "relUrl": "/schedule#wednesday-may-24-2023"
+  },"13": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": "MoDL Collaboration Meeting 2023 May 23-24, TTIC ",
+    "url": "/schedule",
+    
+    "relUrl": "/schedule"
   }
 }
