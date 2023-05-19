@@ -72,8 +72,8 @@ Jones](mailto:bjones@ttic.edu)
   Dynamics of Learning Algorithms”*
 - 11:30 - 1:00 ***Lunch + Break***
 - 1:00 - 2:30 ***Breakout / Small Groups / Open Problems***
-- 2:30 - 3:00 Parthe Pandit "Mechanism of Feature Learning in Deep Fully
-  Connected Networks and Kernel Machines that Recursively Learn Features" 
+- 2:30 - 3:00 Parthe Pandit *"Mechanism of Feature Learning in Deep Fully
+  Connected Networks and Kernel Machines that Recursively Learn Features"*
 - 3:00 - 3:15 *Break*
 - 3:15 - 4:00 Matus Telgarsky *“TBA”*
 - 4:00 - 8:00 ***Picnic at [The Point](https://www.promontorypoint.org/)***
