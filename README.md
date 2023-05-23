@@ -19,7 +19,7 @@ Join us at [TTIC](https://ttic.edu/contact/) from May 23rd-24th for talks and
 activities relevant to the [Collaboration on the Theoretical Foundations of
 Deep Learning](https://deepfoundations.ai/).
 
-- ***Scientific Program***: beginning **Tuesday, May 23rd at 10 AM CT**,
+- ***Scientific Program***: beginning **Tuesday, May 23rd at 11 AM CT**,
   ending **Wednesday, May 24th at 4 PM CT**.
 - ***Full Program***: The meeting will conclude with a picnic at [The
   Point](https://www.promontorypoint.org/) after the scientific program ends,
@@ -61,7 +61,7 @@ Jones](mailto:bjones@ttic.edu)
   Regression”*
 - 4:05 - 4:35 Kangjie Zhou *“Learning Time-Scales in Two-Layers Neural
   Networks”*
-- 4:35 - 5:30 ***Panel Discussion***
+- 4:35 - 6:00 ***Breakout / Small Groups / Open Problems***
 - 6:00 - 8:00 ***Cocktail Reception at TTIC***
 
 ## Wednesday, May 24, 2023
@@ -72,12 +72,12 @@ Jones](mailto:bjones@ttic.edu)
 - 10:40 - 11:30 Francesca Mignacco *“Statistical Physics Insights into the
   Dynamics of Learning Algorithms”*
 - 11:30 - 1:00 ***Lunch + Break***
-- 1:00 - 2:30 ***Breakout / Small Groups / Open Problems***
-- 2:30 - 3:00 Parthe Pandit *"Mechanism of Feature Learning in Deep Fully
+- 1:00 - 2:00 ***Panel Discussion***
+- 2:00 - 2:30 Parthe Pandit *"Mechanism of Feature Learning in Deep Fully
   Connected Networks and Kernel Machines that Recursively Learn Features"*
-- 3:00 - 3:15 *Break*
-- 3:15 - 4:00 Matus Telgarsky *“TBA”*
-- 4:00 - 8:00 ***Picnic at [The Point](https://www.promontorypoint.org/)***
+- 2:30 - 2:45 *Break*
+- 2:45 - 3:30 Matus Telgarsky *“TBA”*
+- 3:30 - 7:30 ***Picnic at [The Point](https://www.promontorypoint.org/)***
 
 
 # Reimbursements

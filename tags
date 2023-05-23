@@ -5290,6 +5290,7 @@ Schedule | MoDL 2023	_site/schedule.html	/^<!DOCTYPE html><html lang="en-US"><he
 Synopsis	README.md	/^# Synopsis$/;"	c
 Synopsis	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
+Table of contents	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Tuesday, May 23, 2023	README.md	/^## Tuesday, May 23, 2023$/;"	s	chapter:Schedule
 Tuesday, May 23, 2023	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Tuesday, May 23, 2023	_site/schedule.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
