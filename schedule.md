@@ -40,5 +40,5 @@ parent: Home
 - 2:00 - 2:30 Parthe Pandit *"Mechanism of Feature Learning in Deep Fully
   Connected Networks and Kernel Machines that Recursively Learn Features"*
 - 2:30 - 2:45 *Break*
-- 2:45 - 3:30 Matus Telgarsky *“TBA”*
+- 2:45 - 3:30 Matus Telgarsky *“Representational strengths and limitations of transformers”*
 - 3:30 - 7:30 ***Picnic at [The Point](https://www.promontorypoint.org/)***
