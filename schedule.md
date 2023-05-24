@@ -41,4 +41,5 @@ parent: Home
   Connected Networks and Kernel Machines that Recursively Learn Features"*
 - 2:30 - 2:45 *Break*
 - 2:45 - 3:30 Matus Telgarsky *“Representational strengths and limitations of transformers”*
-- 3:30 - 7:30 ***Picnic at [The Point](https://www.promontorypoint.org/)***
+- 3:30 - 7:30 ***Picnic at [The Point](https://www.promontorypoint.org/)*** 
+  ([Google Maps](https://www.google.com/maps/place/Promontory+Point/@41.795999,-87.5795772,17z/data=!4m6!3m5!1s0x880e299f0d91b071:0x4cc33119a444e040!8m2!3d41.795999!4d-87.5770023!16zL20vMGZjZjZn))
