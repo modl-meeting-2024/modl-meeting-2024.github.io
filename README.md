@@ -15,7 +15,7 @@ has_children: True
 and activities relevant to the [Collaboration on the Theoretical Foundations of
 Deep Learning](https://deepfoundations.ai/).-->
 
-Join us at [TTIC](https://ttic.edu/contact/) from May 23rd-24th for talks and
+Join us at [UC San Diego](https://ucsd.edu/) from May 16th-17th for talks and
 activities relevant to the [Collaboration on the Theoretical Foundations of
 Deep Learning](https://deepfoundations.ai/).
 
@@ -84,7 +84,7 @@ Jones](mailto:bjones@ttic.edu)
 # Reimbursements
 
 
-TTIC will reimburse all travel expenses (airfare, train, bus, taxi, meals,
+UC San Diego will reimburse all travel expenses (airfare, train, bus, taxi, meals,
 etc.) related to this meeting. You must keep all of your receipts. For charges
 related to meals, **an itemized receipt must be included, and a signed copy must
 be submitted in order to be processed.**
