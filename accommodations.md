@@ -5,6 +5,7 @@ permalink: /accommodations
 nav_order: 1
 parent: Home
 ---
+{% include splash.html %}
 
 # Accommodations
 
