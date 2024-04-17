@@ -2,7 +2,7 @@
 layout: default
 title: Schedule
 permalink: /schedule
-nav_order: 1
+nav_order: 0
 parent: Home
 ---
 
