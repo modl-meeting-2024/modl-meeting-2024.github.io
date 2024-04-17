@@ -7,7 +7,7 @@ parent: Home
 ---
 {% include splash.html %}
 
-# Accommodations
+# Local Information
 
 ## Venue
 The conference will be held at UC San Diego campus in La Jolla (about 12 miles north of the San Diego International Airport).
