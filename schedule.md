@@ -10,36 +10,24 @@ parent: Home
 
 # Schedule
 
-## Tuesday, May 23, 2023
-- 10:30 - 11:00 ***Welcome + Coffee***
-- 11:00 - 11:45 Reza Gheissari *“High-Dimensional Limit Theorems for Stochastic
-  Gradient Descent”*
-- 11:45 - 1:00 ***Poster Session + Lunch***
-- 1:00 - 1:30 Nikhil Ghosh *“A Universal Trade-off Between the Model Size, Test
-  Loss, and Training Loss of Linear Predictors”*
-- 1:35 - 2:05 Jingfeng Wu *“Implicit Bias of Gradient Descent for Logistic
-  Regression at the Edge of Stability”*
-- 2:05 - 3:05 ***Research Speed Dating***
-- 3:05 - 3:35 *Break*
-- 3:35 - 4:05 Lijia Zhou *“Agnostic Interpolation Learning Beyond Linear
-  Regression”*
-- 4:05 - 4:35 Kangjie Zhou *“Learning Time-Scales in Two-Layers Neural
-  Networks”*
-- 4:35 - 6:00 ***Breakout / Small Groups / Open Problems***
-- 6:00 - 8:00 ***Cocktail Reception at TTIC***
+## Thursday, May 16, 2024
+- 9:30 - 10:00 ***Welcome + Breakfast***
+- 10:00 - 10:45 Talk 1
+- 10:45 - 11:30 Talk 2
+- 11:30 - 1:30 ***Lunch break + Poster Session***
+- 1:30 - 2:15 Talk 3
+- 2:15 - 3:00 Talk 4
+- 3:00 - 3:30 **Break and Discussion**
+- 3:30 - 4:15 Talk 5
+- 4:15 - 6:00 ***Reception + Poster Session***
 
-## Wednesday, May 24, 2023
-- 9:45 - 10:00 ***Breakfast***
-- 10:00 - 10:30 Promit Ghosal *“Towards Understanding the Dynamics of
-  Gaussian-Stein Variational Gradient Descent”*
-- 10:30 - 10:40 *Break*
-- 10:40 - 11:30 Francesca Mignacco *“Statistical Physics Insights into the
-  Dynamics of Learning Algorithms”*
-- 11:30 - 1:00 ***Lunch + Break***
-- 1:00 - 2:00 ***Panel Discussion***
-- 2:00 - 2:30 Parthe Pandit *"Mechanism of Feature Learning in Deep Fully
-  Connected Networks and Kernel Machines that Recursively Learn Features"*
-- 2:30 - 2:45 *Break*
-- 2:45 - 3:30 Matus Telgarsky *“Representational strengths and limitations of transformers”*
-- 3:30 - 7:30 ***Picnic at [The Point](https://www.promontorypoint.org/)*** 
-  ([Google Maps](https://www.google.com/maps/place/Promontory+Point/@41.795999,-87.5795772,17z/data=!4m6!3m5!1s0x880e299f0d91b071:0x4cc33119a444e040!8m2!3d41.795999!4d-87.5770023!16zL20vMGZjZjZn))
+## Friday, May 17, 2024
+- 9:30 - 10:00 ***Breakfast***
+- 10:00 - 10:45 Talk 1
+- 10:45 - 11:30 Talk 2
+- 11:30 - 1:30 ***Lunch break***
+- 1:30 - 2:15 Talk 3
+- 2:15 - 3:00 Talk 4
+- 3:00 - 3:30 **Break and Discussion**
+- 3:30 - 4:30 ***Panel Discussion***
+- 4:30 - 6:00 ***Walk to [beach](https://media.cntraveler.com/photos/606f6f1dac52332b71f171af/16:9/w_2560,c_limit/639571857)***
