@@ -10,9 +10,7 @@ parent: Home
 # Local Information
 
 ## Accommodation
-A comprehensive list of hotels (courtesy of Joel Yuen-Zhou) can be found [here](https://www.cs.columbia.edu/~djhsu/alt2024-hotels.pdf). The rates may have changed since then.  Due to the size of the conference, we are not able to allocate room blocks. However, you can try checking whether they have a UCSD rate. Give HDSI (Halıcıoğlu Data Science Institute) as the department. 
-
-These hotels are within walking distance of HDSI: [Residence Inn by Marriott San Diego La Jolla](https://maps.app.goo.gl/E2KUcPU2eihGDxas6), [Sheraton La Jolla Hotel](https://maps.app.goo.gl/QXceSWaQd7xxm8Fp9), and [Hyatt Regency La Jolla At Aventine](https://maps.app.goo.gl/M3DZaaRkWPfesh6y5).
+TBD
 
 ## Transportation
 If you are not within walking distance of campus, we suggest using rideshare or public transportation (SDMTS).
