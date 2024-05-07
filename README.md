@@ -60,7 +60,8 @@ Please register using this [form](https://docs.google.com/forms/d/e/1FAIpQLSea1I
 
 
 ## Accommodation
-TBD
+
+A [list](https://docs.google.com/spreadsheets/d/1TZHPIr5OTISS-6Yy9ZrsU8IaFqIMS6W5W1tXOWU0fno/edit?usp=sharing) of hotels within a 1-hour travel distance from HDSI building, UCSD (either by walking or via the Blue Line trolley).
 
 
 ## Transportation
@@ -77,7 +78,7 @@ If you have any questions, please contact the organizers.
 
 # Reimbursements
 
-MoDL will reimburse transportation costs up to $300 from the West Coast and $750 from elsewhere in the US, and up to a maximum of $x per day for hotel stays, incidentals, and meals not provided at the workshop. Reimbursement requires receipts and covers up to three nights.
+MoDL will reimburse transportation costs up to $300 from the West Coast and $750 from elsewhere in the US, and up to a maximum of $270 per day for hotel stays, incidentals, and meals not provided at the workshop. Reimbursement requires receipts and covers up to three nights.
 
 We will soon update the instructions to submit your reimbursement. 
 
