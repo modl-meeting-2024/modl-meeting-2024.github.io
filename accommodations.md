@@ -11,7 +11,7 @@ parent: Home
 
 ## Accommodation
 
-A [list](https://docs.google.com/spreadsheets/d/1TZHPIr5OTISS-6Yy9ZrsU8IaFqIMS6W5W1tXOWU0fno/edit?usp=sharing) of hotels within a 1-hour travel distance from HDSI building, UCSD (either by walking or via the Blue Line trolley).
+A [list](https://docs.google.com/spreadsheets/d/1TZHPIr5OTISS-6Yy9ZrsU8IaFqIMS6W5W1tXOWU0fno/edit?usp=sharing) of hotels within a 1-hour travel distance from HDSI building, UCSD (either by walking or via the [Blue Line trolley](https://www.sdmts.com/transit-services/trolley)).
 
 
 ## Transportation
