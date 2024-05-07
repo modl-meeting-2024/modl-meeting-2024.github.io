@@ -11,22 +11,7 @@ parent: Home
 # Reimbursements
 
 
-MoDL will reimburse all travel expenses (airfare, train, bus, taxi, meals,
-etc.) related to this meeting. You must keep all of your receipts. For charges
-related to meals, **an itemized receipt must be included, and a signed copy must
-be submitted in order to be processed.**
+MoDL will reimburse transportation costs up to $300 from the West Coast and $750 from elsewhere in the US, and up to a maximum of $x per day for hotel stays, incidentals, and meals not provided at the workshop. Reimbursement requires receipts and covers up to three nights.
 
-- For the purposes of business travel, domestic travel is defined as ‘travel to
-  any destination within the United States, including Alaska and Hawaii, and
-  all U.S. possessions, territories, and entities with free association
-  status.”  Travel to all other locations is considered foreign travel.
-- The allowable expense for domestic travel is a standard **coach airfare** or
-  its equivalent.  Domestic First Class or Business Class travel requires
-  approval by the Chief Academic Officer and is allowed for the following
-  reasons:
-  - Physical disability
-  - Lack of available space
-  - Cancellation of service
-  - Extraordinary situation
 
 We will soon update the instructions to submit your reimbursement. 
