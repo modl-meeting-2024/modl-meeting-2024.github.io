@@ -25,7 +25,7 @@ parent: Home
 ## Friday, May 17, 2024
 - 9:30 - 10:00 ***Breakfast***
 - 10:00 - 10:45 Theodor Misiakiewicz: *On the complexity of differentiable learning on product measures*
-- 10:45 - 11:30 Kangjie zhou: *TBA*
+- 10:45 - 11:30 Kangjie zhou: *Algorithmic Thresholds for the Ising Perceptron*
 - 11:30 - 1:30 ***Lunch break***
 - 1:30 - 2:15 Jingfeng Wu: *Reimagining Gradient Descent: Large Stepsize, Oscillation, and Acceleration*
 - 2:15 - 3:00 Gal Katzhendler: *Multicover: Towards Efficient Induction of Sample Complexity*
