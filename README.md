@@ -117,7 +117,7 @@ Please register using this [form](https://docs.google.com/forms/d/e/1FAIpQLSea1I
   </tr>
   <tr>
     <td>4:10 - 6:00</td>
-    <td><strong>Walk to <a href="https://media.cntraveler.com/photos/606f6f1dac52332b71f171af/16:9/w_2560,c_limit/639571857">beach</a></strong> <a href="https://www.google.com/maps/place/Citizens+Trail/@32.8898715,-117.2537759,17z/data=!4m14!1m7!3m6!1s0x80dc0693080cb29b:0x8f244f06aa6472e0!2sTorrey+Pines+Gliderport!8m2!3d32.889867!4d-117.251201!16s%2Fm%2F04gvgnd!3m5!1s0x80dc06911fe5bd29:0xc823c8051d17c49e!8m2!3d32.8882047!4d-117.2512848!16s%2Fg%2F11gg6b79lt?entry=ttu">Google map</a></strong>
+    <td><strong>Walk to <a href="https://media.cntraveler.com/photos/606f6f1dac52332b71f171af/16:9/w_2560,c_limit/639571857">beach</a></strong> <a href="https://www.google.com/maps/place/Citizens+Trail/@32.8898715,-117.2537759,17z/data=!4m14!1m7!3m6!1s0x80dc0693080cb29b:0x8f244f06aa6472e0!2sTorrey+Pines+Gliderport!8m2!3d32.889867!4d-117.251201!16s%2Fm%2F04gvgnd!3m5!1s0x80dc06911fe5bd29:0xc823c8051d17c49e!8m2!3d32.8882047!4d-117.2512848!16s%2Fg%2F11gg6b79lt?entry=ttu">Google map</a></strong></td>
  </tr>
 </table>
 
