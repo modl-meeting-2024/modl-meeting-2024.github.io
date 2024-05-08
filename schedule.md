@@ -34,7 +34,7 @@ parent: Home
   </tr>
   <tr>
     <td>1:30 - 2:15</td>
-    <td>Libin Zhu: <em>Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning</em></td>
+    <td>Libin Zhu: <em>Spikes in the training loss of SGD and their impact on generalization through feature learning</em></td>
   </tr>
   <tr>
     <td>2:15 - 3:00</td>
