@@ -81,23 +81,24 @@ parent: Home
     <td><strong>Lunch break</strong></td>
   </tr>
   <tr>
-    <td>1:30 - 2:15</td>
-    <td>Jingfeng Wu: <em>Reimagining Gradient Descent: Large Stepsize, Oscillation, and Acceleration</em></td>
+    <td>1:30 - 2:30</td>
+    <td><strong>Panel Discussion</strong></td>
   </tr>
   <tr>
-    <td>2:15 - 3:00</td>
-    <td>Gal Katzhendler: <em>Multicover: Towards Efficient Induction of Sample Complexity</em></td>
-  </tr>
-  <tr>
-    <td>3:00 - 3:10</td>
+    <td>2:30 - 2:40</td>
     <td><strong>Break</strong></td>
   </tr>
   <tr>
-    <td>3:10 - 4:10</td>
-    <td><strong>Panel Discussion</strong></td>
+    <td>2:40 - 3:25</td>
+    <td>Jingfeng Wu: <em>Reimagining Gradient Descent: Large Stepsize, Oscillation, and Acceleration</em></td>
+  </tr>
+  <tr>
+    <td>3:25 - 4:10</td>
+    <td>Gal Katzhendler: <em>Multicover: Towards Efficient Induction of Sample Complexity</em></td>
   </tr>
   <tr>
     <td>4:10 - 6:00</td>
     <td><strong>Walk to <a href="https://media.cntraveler.com/photos/606f6f1dac52332b71f171af/16:9/w_2560,c_limit/639571857">beach</a></strong> <a href="https://www.google.com/maps/place/Citizens+Trail/@32.8898715,-117.2537759,17z/data=!4m14!1m7!3m6!1s0x80dc0693080cb29b:0x8f244f06aa6472e0!2sTorrey+Pines+Gliderport!8m2!3d32.889867!4d-117.251201!16s%2Fm%2F04gvgnd!3m5!1s0x80dc06911fe5bd29:0xc823c8051d17c49e!8m2!3d32.8882047!4d-117.2512848!16s%2Fg%2F11gg6b79lt?entry=ttu">Google map</a></td>
  </tr>
 </table>
+
