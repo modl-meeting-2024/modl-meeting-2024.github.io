@@ -42,7 +42,7 @@ parent: Home
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
-    <td><strong>Break and Discussion</strong></td>
+    <td><strong>Break + Discussion</strong></td>
   </tr>
   <tr>
     <td>3:30 - 4:15</td>
@@ -78,7 +78,7 @@ parent: Home
   </tr>
   <tr>
     <td>11:30 - 1:30</td>
-    <td><strong>Lunch break</strong></td>
+    <td><strong>Lunch break + Discussion</strong></td>
   </tr>
   <tr>
     <td>1:30 - 2:30</td>
@@ -86,7 +86,7 @@ parent: Home
   </tr>
   <tr>
     <td>2:30 - 2:40</td>
-    <td><strong>Break</strong></td>
+    <td>Break</td>
   </tr>
   <tr>
     <td>2:40 - 3:25</td>
