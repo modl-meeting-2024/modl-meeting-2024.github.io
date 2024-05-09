@@ -100,20 +100,20 @@ Please register using this [form](https://docs.google.com/forms/d/e/1FAIpQLSea1I
     <td><strong>Lunch break</strong></td>
   </tr>
   <tr>
-    <td>1:30 - 2:15</td>
-    <td>Jingfeng Wu: <em>Reimagining Gradient Descent: Large Stepsize, Oscillation, and Acceleration</em></td>
+    <td>1:30 - 2:30</td>
+    <td><strong>Panel Discussion</strong></td>
   </tr>
   <tr>
-    <td>2:15 - 3:00</td>
-    <td>Gal Katzhendler: <em>Multicover: Towards Efficient Induction of Sample Complexity</em></td>
-  </tr>
-  <tr>
-    <td>3:00 - 3:10</td>
+    <td>2:30 - 2:40</td>
     <td><strong>Break</strong></td>
   </tr>
   <tr>
-    <td>3:10 - 4:10</td>
-    <td><strong>Panel Discussion</strong></td>
+    <td>2:40 - 3:25</td>
+    <td>Jingfeng Wu: <em>Reimagining Gradient Descent: Large Stepsize, Oscillation, and Acceleration</em></td>
+  </tr>
+  <tr>
+    <td>3:25 - 4:10</td>
+    <td>Gal Katzhendler: <em>Multicover: Towards Efficient Induction of Sample Complexity</em></td>
   </tr>
   <tr>
     <td>4:10 - 6:00</td>
