@@ -50,11 +50,7 @@ parent: Home
   </tr>
   <tr>
     <td>4:15 - 6:30</td>
-    <td><strong>Poster Session</strong></td>
-  </tr>
-  <tr>
-    <td>5:30 - 6:30</td>
-    <td><strong>Reception</strong></td>
+    <td><strong>Poster Session + Reception</strong></td>
   </tr>
 </table>
 
