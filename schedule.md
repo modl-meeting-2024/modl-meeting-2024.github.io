@@ -48,10 +48,13 @@ parent: Home
     <td>3:30 - 4:15</td>
     <td>Jason Gaitonde: <em>Sample-Efficient Linear Regression with Self-Selection Bias</em></td>
   </tr>
-  <tr>
-    <td>4:15 - 6:30</td>
-    <td><strong>Poster Session + Reception</strong></td>
-  </tr>
+<tr>
+   <td>4:15 - 6:30</td>
+  <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+    <strong>Poster Session + Reception</strong><br>
+    <span style="font-style: italic;">(Reception starts at 5:30 PM)</span>
+  </td>
+</tr>
 </table>
 
 <h2>Friday, May 17, 2024</h2>
