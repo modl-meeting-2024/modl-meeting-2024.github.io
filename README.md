@@ -92,7 +92,7 @@ Please register using this [form](https://docs.google.com/forms/d/e/1FAIpQLSea1I
   </tr>
   <tr>
     <td>10:45 - 11:30</td>
-    <td>Kangjie Zhou: <em>Algorithmic Thresholds for the Ising Perceptron</em></td>
+    <td>Kangjie Zhou: <em>New algorithms for Ising Perceptron</em></td>
   </tr>
   <tr>
     <td>11:30 - 1:30</td>
